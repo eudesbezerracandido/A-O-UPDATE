@@ -6,4 +6,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ggtT84i2E1URJCyAkaoPxl6Ttke.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um ex-hacker, agora consultor de cibersegurança, fica em apuros ao descobrir que ele acaba de armar uma bomba debaixo da própria cadeira e é forçado a ajudar um maníaco anônimo a fazer um roubo cibernético impossível pelo telefone.</info>
-</item>
+</item> 
