@@ -31,3 +31,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um guarda-costas é encarregado de proteger a filha de um importante cientista, para que a pesquisa de sua empresa não caia em mãos erradas. Quando um grupo de mercenários surge para roubar o material, será preciso lutar para sobreviver.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] ASSASSINO PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a36c8544007559367fef0bf5e8d886a1960ba9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um suspense noir ambientado em Miami, o filme segue um executor que descobre que sua chefe femme fatale se ramificou no tráfico sexual cibernético, colocando em risco um jovem fugitivo de quem fez amizade. Ele sacrifica tudo para salvar a jovem da organização mortal que ele passou a vida construindo.</info>
+</item>
