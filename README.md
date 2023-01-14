@@ -39,3 +39,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um suspense noir ambientado em Miami, o filme segue um executor que descobre que sua chefe femme fatale se ramificou no tráfico sexual cibernético, colocando em risco um jovem fugitivo de quem fez amizade. Ele sacrifica tudo para salvar a jovem da organização mortal que ele passou a vida construindo.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] A ÚLTIMA VITIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8f56b2efb5fc9ae9048a4b037458ec566c3f348</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Envelhecendo e desgostoso com sua vida, Keele é um matador de aluguel encarregado de dar cabo de uma testemunha que pode ligar ele e seu parceiro psicótico, Palmer, a um assassinato recente. Esta execução de rotina desmorona quando Keele luta para realizar sua tarefa devido a uma crise de consciência. Ele rapidamente descobre que seu alvo, a jovem Peyton, é o alvo mais difícil de sua carreira.</info>
+</item> 
