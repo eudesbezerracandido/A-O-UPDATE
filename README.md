@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] IRMÃOS DE HONRA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f985dfc34e289cab98669d07eb645fe865954c94</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jesse Brown e Tom Hudner iniciam a carreira militar juntos no VF-32 e ao longo do serviço eles são levados ao limite, voando em um jato de combate. Jesse e Tom se tornam amigos e começam a superar cada vez mais desafios lado a lado, mas tudo muda quando um deles é abatido atrás das linhas inimigas.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] DETECTIVE KNIGHT: ROUGUE DUBLADO NÃO OFICIAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0495D78561AB49E839740A349B06EFA3317D623C$nome=DUBLAO NÃO OFICIAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d0e39bd00ab67eada491c43fc7447f356ddcfa$nome=LEGENDADO</link>
