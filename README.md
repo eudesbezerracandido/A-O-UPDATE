@@ -1,6 +1,12 @@
 # A-O-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] JUNG_E [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situada no século 22, a mudança climática fez com que o planeta se tornasse inabitável e os humanos vivessem em um abrigo, que está em guerra. Jung Yi é a líder de elite das forças aliadas. Ela se torna o objeto de um experimento de clonagem de cérebro. Este experimento é uma chave potencial para vencer a guerra.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] IRMÃOS DE HONRA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
