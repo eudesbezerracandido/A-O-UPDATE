@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR silver][B] DETECTIVE KNIGHT: ROUGUE DUBLADO NÃO OFICIAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0495D78561AB49E839740A349B06EFA3317D623C$nome=DUBLAO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a63ca814e9fdd9b3761f8244af1c82b07489762$nome=DUBLAO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d0e39bd00ab67eada491c43fc7447f356ddcfa$nome=LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
