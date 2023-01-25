@@ -1,5 +1,14 @@
 # A-O-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] LAMINA DOS 47 RONINS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAJT2TSWGITJHBAQIV7VBPQY7JV7D4LK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta sequência de “47 Ronin”, uma nova classe de guerreiros surge entre os clãs Samurai para evitar que uma espada tão procurada caia em mãos erradas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JUNG_E [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb</link>
