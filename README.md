@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] FIM DA LINHA - BABY MORNEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b297ddb4ad8f1e21ec23a9304c6859ca5ff15857</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w8KyDJrt1XSjAz4rWSNyZLSGuyL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma invasão de casa se transforma em um tiroteio sangrento, dois fugitivos maltrapilhos se refugiam na casa de uma mãe solteira enquanto esperam por sua fogosa (e bastante grávida) motorista de fuga para traçar um plano de escape a tempo de receberem um grande pagamento</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LAMINA DOS 47 RONINS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAJT2TSWGITJHBAQIV7VBPQY7JV7D4LK</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg</thumbnail>
