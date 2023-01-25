@@ -1,8 +1,18 @@
 # A-O-UPDATE
 
 
+
+
 <item>
-<title>[COLOR silver][B] FIM DA LINHA - BABY MORNEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A GERAÇÃO ESQUECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b937b01ff13803da727c89845ec444cbc8e37fbf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p18bvjZiroyCggjARjK41eTaEmb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pós-graduados descobrem que a melhor maneira de viver a vida que sempre desejaram é roubar os ricos, e dar a si mesmos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FIM DA LINHA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b297ddb4ad8f1e21ec23a9304c6859ca5ff15857</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w8KyDJrt1XSjAz4rWSNyZLSGuyL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
