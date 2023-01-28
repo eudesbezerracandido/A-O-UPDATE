@@ -4,6 +4,22 @@
 
 
 <item>
+<title>[COLOR silver][B] TEEN WOLF-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um mal terrível vem à tona. Scott McCall (Tyler Posey), não mais adolescente mas ainda um Alpha, forma novos aliados e reúne amigos de confiança para lutar contra o que pode ser o maior inimigo que eles já enfrentaram.e</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] DEAD ZONE- OPERAÇÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c382ef5f8f4b8fd0ea930409c92d903b29cbb29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tRm0yqIgoOa3k05SipqOB2yQJ1F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma equipe de soldados de elite que, para impedir o colapso da humanidade, chega a uma cidade envenenada por radiação e realiza a missão furtiva final usando armaduras e armas de alta tecnologia.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] A GERAÇÃO ESQUECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b937b01ff13803da727c89845ec444cbc8e37fbf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p18bvjZiroyCggjARjK41eTaEmb.jpg</thumbnail>
