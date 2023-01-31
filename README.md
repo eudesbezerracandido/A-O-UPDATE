@@ -1,7 +1,13 @@
 # A-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] CASAMENTO ARMADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e37cc60bb2d4f69239138587616639ebf48f43cf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Darcy (Jennifer Lopez) e Tom (Josh Duhamel) reúnem suas amáveis, porém complicadas, famílias para o seu casamento, sem que ninguém saiba que eles estão repensando a decisão. E como se isso não fosse suficiente, o evento é tomado por criminosos, e no processo de salvar suas famílias, eles redescobrem por que queriam se casar.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] TEEN WOLF-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
