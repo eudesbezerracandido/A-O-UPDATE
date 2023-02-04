@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] FANTASY FOOTBALL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9d3ed3dfee21c9016383497ccdabe96888f1b8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lC99lme4UplMUICswlA4mfe5GNx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma filha descobre que pode controlar magicamente o desempenho do pai, jogador de futebol, pelo console de video game.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] CASAMENTO ARMADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e37cc60bb2d4f69239138587616639ebf48f43cf</link>
