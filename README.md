@@ -6,7 +6,24 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] CORAÇÕES DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0030652307B13D07476B6A08BEF2930E90900CA6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AkZhchgqSIhnUgtvVrfR6vKHjtH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy (Brad Pitt), sargento que pretende levá-los à vitória, enquanto ensina o novato Norman (Logan Lerman) a lutar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - BALA PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74cdd36b9545e85064fa38c05b33f0ed4052a81$nome=BALA PERDIDA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5daee7159d545ad85cc9656573d0037c11d3f6d8$nome=BALA PERDIDA 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pv7AvlK5QKCSjiS8WxO1dDXazve.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de Charas, Lino (Alban Lenoir) e Julia (Stéfi Celma) assumem a nova unidade de narcóticos. Decidido a encontrar quem matou seu irmão e seu mentor, Lino continua a caça e não deixa que ninguém fique em seu caminho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FANTASY FOOTBALL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
