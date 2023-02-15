@@ -1,7 +1,13 @@
 # A-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] ALERTA DE EMERGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DUILPUXCRLANLH7TCQXPALMYQXONWZI2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3qtwledxE6zPHLVvzxYBf1nQb8A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os pilotos de um avião devem fazer uma declaração de emergência e pousar o avião. As autoridades coreanas descobrem que um terrorista embarcou em um voo com destino aos Estados Unidos. Quando um passageiro morre repentinamente, o pânico irrompe tanto no voo quanto no solo. Com a diminuição constante do combustível e as recusas internacionais em oferecer ajuda, o capitão e a tripulação tomam medidas de emergência sem precedentes para salvar a vida de todos a bordo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ÚLTIMO HEROEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
