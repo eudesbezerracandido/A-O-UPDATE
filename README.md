@@ -1,6 +1,16 @@
 # A-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] O ÚLTIMO HEROEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6445cb78ed57f99715fe062c238e2d1e1c43ab5d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/942A3wIwBXuegIaVUnclyhLqSaC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois jovens, que quando crianças foram treinados como agentes infiltrados em outros países, decidem desertar e passam a ser caçados por toda a Europa como uma ameaça ao governo russo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LADRÕES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a90f7e63f244b723afa902634a10ac8ec6977e8</link>
