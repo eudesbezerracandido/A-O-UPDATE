@@ -23,7 +23,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zlMlXCzoehhc7fSYJWepUBZFdTW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um grupo de bandidos acostumados a executar assaltos sem deixar vestígios resolve se aposentar, mas para isso precisam executar um último "serviço" que irá render a bolada de US$ 20 milhões. O único problema é que agora o detetive Jack Welles (Matt Dillon) está disposto a atrapalhar a carreira deles e não vai medir esforços para colocá-los atrás das grades.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] PANTERA NEGRA - WAKANDA PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
