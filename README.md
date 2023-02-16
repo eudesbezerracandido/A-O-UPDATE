@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] INFERNO SANGRENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eddf6317510e7a491cec57b1d0ec0396a790e4f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b7KdJKkmnoKjaWNc24MRnYL11um.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem com um passado misterioso foge do país para escapar de um inferno pessoal, apenas para encontrar algo muito, muito pior.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALERTA DE EMERGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DUILPUXCRLANLH7TCQXPALMYQXONWZI2</link>
