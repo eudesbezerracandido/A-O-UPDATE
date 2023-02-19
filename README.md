@@ -1,6 +1,12 @@
 # A-O-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] REV-ADRENALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf944dc32d894d7603886d2db0b8f48e7e65cf2d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/biZyn1Hwg8O6dSrukPhxNi6EFJG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mikey, um entediado balconista de Toronto, passa seu tempo fora do trabalho roubando carros. No entanto, ele é pego roubando um carro muito raro da casa de um policial, e a polícia o força a trabalhar infiltrado ou ir para a prisão. Mikey concorda em se juntar a uma quadrilha liderada pelo violento e impulsivo Charlie, capaz de matar Mikey em um piscar de olhos se desconfiar que se trata de um informante. Pior ainda, Mikey se sente atraído pela namorada de Charlie, Ava.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INFERNO SANGRENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
