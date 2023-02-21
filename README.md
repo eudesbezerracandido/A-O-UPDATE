@@ -1,5 +1,17 @@
 # A-O-UPDATE
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] O SISTEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9d884d99533d2ccaf0a89599ee5b1bf9904a442</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma apreensão de drogas, um ex-fuzileiro naval é recrutado pelas autoridades para se esconder em uma prisão notoriamente perigosa. Depois de descobrir um ringue de luta subterrâneo, ele deve lutar para permanecer vivo e derrubar o sistema corrupto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] REV-ADRENALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf944dc32d894d7603886d2db0b8f48e7e65cf2d</link>
