@@ -1,8 +1,13 @@
 # A-O-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] PERSEGUIÇÃO PORSUIT COMPLETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e6c299890980dd53e24de4b0c00ebc8fafc92b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iEmwNY1s9BUJ2KguAkMuAhlq3cE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O detetive Breslin cruza o caminho de Calloway, um hacker implacável que está tentando salvar sua esposa sequestrada de um cartel de drogas. Quando Calloway escapa da custódia da polícia, Breslin une forças com uma policial sensata para recuperar seu prisioneiro.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O SISTEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
