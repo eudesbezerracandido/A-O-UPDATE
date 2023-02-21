@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] SICARIO: PERIGO NO ABRIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f56f0009d9205d4e6c76c92fdbd5c5a27b2e350</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>nquanto transportam a família de uma testemunha chave em um julgamento federal contra o cartel, agentes da DEA são emboscados em um tiroteio fatal. Agora os sobreviventes, incluindo a filha da testemunha, devem se refugiar em uma casa próxima enquanto os implacáveis ??sicários os caçam. Com perigo em cada esquina e um furacão violento acabando com qualquer chance de ajuda externa, eles devem jogar um jogo mortal de gato e rato com o cartel para sobreviver à noite.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PERSEGUIÇÃO PORSUIT COMPLETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e6c299890980dd53e24de4b0c00ebc8fafc92b5</link>
