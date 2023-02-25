@@ -1,6 +1,14 @@
 # A-O-UPDATE
 
 <item>
+<title>[COLOR silver][B] UM PARAISO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03e8d2fb32bb647fe1f5b236f0f6b02c84542b0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tnliSzyWleQYhDtdUacU26BMcz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Willis interpreta o caçador de recompensas renegado, Ryan Swan, que deve abrir caminho no mundo do crime havaiano para se vingar do chefão, interpretado por Travolta, que assassinou seu pai. Disseram-me que o projeto é classificado como semelhante ao Miami Vice, mas com caçadores de recompensas em vez de policiais. A atriz e modelo tailandesa Praya Lundberg conseguiu o papel feminino principal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DURO DE ATUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9094eb1d26ececa66aaa95fbc1f3d1ec8136a47a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
