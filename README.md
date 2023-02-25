@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GUERRA ACULTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3WSMVY2UKA7AMWJAJHNK24W6TLNSPKZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AaI4egyV9dCMzOYoumyLMZrmRPg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dos produtores de Sicario e John Wick. Com Michelle Monaghan. Quando um prisioneiro de alto valor escapa de sua cela, um grupo de oficiais precisa lutar para capturá-lo a qualquer custo em uma base militar que parece um labirinto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SICARIO: PERIGO NO ABRIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f56f0009d9205d4e6c76c92fdbd5c5a27b2e350</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg</thumbnail>
