@@ -178,9 +178,8 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] DETECTIVE KNIGHT: ROUGUE DUBLADO NÃO OFICIAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a63ca814e9fdd9b3761f8244af1c82b07489762$nome=DUBLAO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d0e39bd00ab67eada491c43fc7447f356ddcfa$nome=LEGENDADO</link>
+<title>[COLOR silver][B] DETECTIVE KNIGHT: ROUGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4578d41a1ef55e56cc6b1e9b7ac3d83ce124bc31</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.</info>
