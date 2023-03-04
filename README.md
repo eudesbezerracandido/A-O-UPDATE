@@ -1,6 +1,12 @@
 # A-O-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] SAYEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sayen, está caçando os homens que assassinaram a avó dela. Usando seu treinamento e conhecimento da natureza, ela é capaz de virar o jogo sobre eles, aprendendo de uma conspiração de uma corporação que ameaça as terras ancestrais de seu povo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ÚLTIMO REFUGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
