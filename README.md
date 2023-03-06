@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CALIBRE 9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74492a12a01d3e6c196146b75d296a70600807a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fUaoRndWmWuaV900ec4MK8I0Mms.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Fernando Piazza é um brilhante advogado de defesa que vive em Milão. Sua mãe, Nelly, fez tudo para que o filho fosse diferente do pai, o mafioso Ugo. Até que 100 milhões de euros somem em uma fraude de telecomunicações, e o advogado descobre que o principal suspeito é um cliente seu e que a empresa envolvida faz parte a máfia italiana. Agora, Fernando terá que enfrentar a organização criminosa mais perigosa do mundo, em um jogo que vale a sua própria vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ÚLTIMO REFUGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48ce57e7c177e68c7a2d138621aa8de752ee2f73</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
