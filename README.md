@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ESQUEMA DE RISCO-OPERAÇÃO FORTUNE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3RS5JUKJ5ABAQ3IDTS6G4UGDLDSZGYIP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Orson Fortune (Jason Statham) é um agente do MI6 que, junto de sua equipe profissional, recruta uma estrela de Hollywood para ajudar em uma missão secreta. Uma nova tecnologia de armas mortais foi criada, ameaçando derrubar a ordem mundial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE$nome=SERVIDOR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D835EF37F2B313261E5C8EA8E30EEE1AEDA516$nome=SERVIDOR 2</link>
