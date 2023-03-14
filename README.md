@@ -1,8 +1,13 @@
 # A-O-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] THE PROTOTYPE  - (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83C7FA2CACAB1CC485FA1DD89FDCCC340C722AF7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gGDDRopgIQhemPJ04eI0r0FfmIt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um agente do governo se depara com uma conspiração alienígena para conquistar a Terra. Usando um líquido azul criado pelos alienígenas para tornar os soldados mais fortes, ele se torna o protótipo – a única esperança para a humanidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TUDO EM TODO LUGAR AO MESMO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
