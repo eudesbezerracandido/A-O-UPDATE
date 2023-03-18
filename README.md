@@ -1,6 +1,16 @@
 # A-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] AJIIN - SEMI -  HUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6dfabc63a75de6cc08b9129fe6b68a837f31171</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yE6khDBSMqbruR7jua67UmRfqV5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kei Nagai começa na carreira médica para salvar sua irmã doente. Um dia, ele morre em um acidente, mas volta à vida imediatamente. Ele descobre que é um “Ajin”, um ser semi-humano, ele é procurado pelo governo e precisa fugir por causa de seus poderes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE PROTOTYPE  - (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83C7FA2CACAB1CC485FA1DD89FDCCC340C722AF7</link>
