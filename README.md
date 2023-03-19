@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O JARDINEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bc42fab52c866ec2d13cf7bf082fd58d98c33c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma família rica e problemática se reúne em uma mansão pitoresca para as férias, sem suspeitar que o sanguinário e sádico Volker e sua tripulação permanecem nos portões, prontos para atacar, roubar e mutilar ao anoitecer. Mas eles não contavam com o jardineiro tranquilo da propriedade, Peter Juhasz, que deve voltar às formas selvagens que aprendeu como soldado para salvar a família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE PROTOTYPE  - (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83C7FA2CACAB1CC485FA1DD89FDCCC340C722AF7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gGDDRopgIQhemPJ04eI0r0FfmIt.jpg</thumbnail>
