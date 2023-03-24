@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS PIRATAS DA RUA DEBAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:605cbdd01b25466313d8847ff02995d384bd4741</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9p0uScG0xssIrANgcYLcDiNSLCK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma família de piratas se muda para a chata Sandsborough, os vizinhos não ficam muito felizes. Michiel e seu novo amigo pirata Billy tentam fazer com que a família se misture, mas seu arqui-inimigo chega à cidade e planeja roubar um tesouro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AJIIN - SEMI -  HUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6dfabc63a75de6cc08b9129fe6b68a837f31171</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yE6khDBSMqbruR7jua67UmRfqV5.jpg</thumbnail>
