@@ -1,5 +1,15 @@
 # A-O-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] SALVANDO LENINGRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5eaa7eaffac778a81a8a61caa9096a341fc8fe0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8HB6UlnxAHJBjtvsL5HYJb7BN8v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos – mas não os socorristas – são os primeiros a chegar ao local.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
