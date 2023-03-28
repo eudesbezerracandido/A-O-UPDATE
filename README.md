@@ -1,6 +1,14 @@
 # A-O-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] BLACKBIRD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2E8E6D449673C2906484A5458CADE549776BD47$nome=BLACKBIRD DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B71A05F8970A65E508C30F4681AADA28E4253FD9$nome=LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aOI5BmzZDKdkbXoRKTxznbzUerm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O problemático agente secreto “Blackbird” se aposenta abruptamente do serviço e abre uma luxuosa boate no Caribe para escapar das sombras negras de seu passado. Uma antiga paixão chega e reacende o amor em sua vida, mas traz consigo o perigo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SALVANDO LENINGRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
