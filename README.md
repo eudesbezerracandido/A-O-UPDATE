@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRIMEIRO AMOR,O ÚLTIMO YAKUZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a76b22a6404b7701b68a565b8bcc8239484c7cc4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uw0o4P7O5fetb6CQo6cAQ1BRDNC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em uma noite em Tóquio, acompanhamos Leo, um jovem boxeador sem sorte ao conhecer seu ‘primeiro amor’ Monica, uma garota de programa e viciada, mas ainda inocente. Mal sabe Leo que Monica está involuntariamente envolvida em um esquema de contrabando de drogas, e os dois são perseguidos durante a noite por um policial corrupto, um yakuza, seu inimigo e uma assassina enviada pelas Tríades Chinesas. Todos os seus destinos se entrelaçam no espetacular estilo Miike.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
