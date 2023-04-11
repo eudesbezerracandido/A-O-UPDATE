@@ -9,7 +9,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI X A ORIGEM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5639441a9268325672cba96b9ff42ecf58563b4c$nome=SAMURAI X O FINAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb5082698f4b3b21e8f10d48606cc1a7510b3e5$nome=SAMURAI X O FIM DE UMA LENDA</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=SAMURAI X O FILME</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/btqkgfuJUjnEkKQXVv8OvBaOaCX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um samurai era um membro da classe guerreira japonesa que floresceu durante o período feudal do Japão, que durou de cerca do século XII até meados do século XIX. Os samurais eram treinados em artes marciais, como a esgrima com espadas, arco e flecha, além de cavalgada e estratégia militar. Eles eram conhecidos por sua lealdade, coragem e habilidade em combate, e serviam como protetores de seus senhores feudais. Além disso, os samurais seguiam um código de conduta rigoroso conhecido como Bushido, que enfatizava a honra, a lealdade e a disciplina pessoal. Com o fim do sistema feudal no Japão, os samurais perderam sua posição privilegiada na sociedade, mas sua história e cultura continuam a ser apreciadas e estudadas até hoje.</info>
