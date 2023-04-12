@@ -4,7 +4,6 @@
 <item>
 <title>[COLOR silver][B] LEGIÃO DOS SAMURAIS - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C$nome=TRILOGIA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C$nome=TRILOGIA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF$nome=ÚLTIMO SAMURAI</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=A ORIGEM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5639441a9268325672cba96b9ff42ecf58563b4c$nome=O FINAL</link>
