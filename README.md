@@ -20,7 +20,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O agente secreto Orson Fortune e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante – e arriscada. Quando a venda de uma nova tecnologia de armamento mortal ameaça perturbar a ordem mundial, todos os recursos se mostram necessários para combater esse inimigo.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] BLACKBIRD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
