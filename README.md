@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAMURAI X - O FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5639441a9268325672cba96b9ff42ecf58563b4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mzKKUblhyvv7nWyfJCLT69GijOA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ano é 1879. Jurados de vingança, Kenshin e seus aliados enfrentam o inimigo mais forte de todos: Enishi Yukishiro e seus comparsas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
