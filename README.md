@@ -42,6 +42,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ÚLTIMO SAMURAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uOXcVNT3eKPfU93GwcXd2XFssJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xHYb2jTBMPHADCzhpN1wmWzewVh.jpg</fanart>
+<info>Em 1870 é enviado ao Japão o capitão Nathan Algren, um conceituado militar norte-americano. A missão de Algren é treinar as tropas do imperador Meiji, para que elas possam eliminar os últimos samurais que ainda vivem na região. Porém, após ser capturado pelo inimigo, Algren aprende com Katsumoto o código de honra dos samurais e passa a ficar em dúvida sobre que lado apoiar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
