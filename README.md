@@ -48,7 +48,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/aOI5BmzZDKdkbXoRKTxznbzUerm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O problemático agente secreto “Blackbird” se aposenta abruptamente do serviço e abre uma luxuosa boate no Caribe para escapar das sombras negras de seu passado. Uma antiga paixão chega e reacende o amor em sua vida, mas traz consigo o perigo.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] SALVANDO LENINGRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
