@@ -2,16 +2,11 @@
 
 
 <item>
-<title>[COLOR silver][B] LEGIÃO DOS SAMURAIS - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C$nome=SAMURAI X</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF$nome=ÚLTIMO SAMURAI</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=A ORIGEM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5639441a9268325672cba96b9ff42ecf58563b4c$nome=O FINAL</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb5082698f4b3b21e8f10d48606cc1a7510b3e5$nome=FIM DE UMA LENDA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad6242e243fb4ff5822568ca8117000b6e17449f$nome=ZATOICHI</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/btqkgfuJUjnEkKQXVv8OvBaOaCX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um samurai era um membro da classe guerreira japonesa que floresceu durante o período feudal do Japão, que durou de cerca do século XII até meados do século XIX. Os samurais eram treinados em artes marciais, como a esgrima com espadas, arco e flecha, além de cavalgada e estratégia militar. Eles eram conhecidos por sua lealdade, coragem e habilidade em combate, e serviam como protetores de seus senhores feudais. Além disso, os samurais seguiam um código de conduta rigoroso conhecido como Bushido, que enfatizava a honra, a lealdade e a disciplina pessoal. Com o fim do sistema feudal no Japão, os samurais perderam sua posição privilegiada na sociedade, mas sua história e cultura continuam a ser apreciadas e estudadas até hoje.</info>
+<title>[COLOR silver][B] TRILOGIA - SAMURAI X [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qw6UADMtSw7hg3bmvQQLbTXFvUf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kcmuYk4Z54mi5y9tMVBvY2KBLiN.jpg</fanart>
+<info>Kenshin Himura ficou conhecido como um dos melhores assassinos do país. Porém, cansado de tanta matança, ele abandona sua espada durante uma batalha e jura que não matará mais ninguém. Sua arma é recolhida por um dos derrotados e, passado algum tempo, uma série de assassinatos relacionados ao tráfico de ópio começam a acontecer. Himura passa a ser falsamente acusado de assassinato e sua promessa de nunca mais tirar uma vida é testada.</info>
 </item>
 
 <item>
