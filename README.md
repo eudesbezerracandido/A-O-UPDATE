@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAMURAI X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eKfxxGjjVqrWx2iD2AxQUiY1hwR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kenshin é um terrível assassino conhecido como Battosai. Mas quando ele conhece a doce Tomoe Yukishiro, sua história começa a mudar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
