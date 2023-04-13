@@ -34,6 +34,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ZATOICHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad6242e243fb4ff5822568ca8117000b6e17449f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCIycswWbX1EDS6PYYBcR9ohrC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Japão, século 19. Zatoichi (Takeshi Kitano) é um andarilho cego que sobrevive como massagista e jogador de cartas, mas por trás de sua aparência humilde esconde-se um espadachim de raro talento. Numa de suas andanças ele chega a uma aldeia dominada pelo sanguinário bandoleiro Ginzo (Ittoku Kishibe), que, com a ajuda do samurai Hattori (Tadanobu Assano), seu capanga, elimina quem se oponha a seus objetivos. O embate entre Zatoichi e a quadrilha de Ginzo torna-se inevitável quando o cego conhece duas gueixas que desejam vingar a morte dos pais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
