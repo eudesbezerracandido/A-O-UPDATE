@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAMURAI X - FIM DE UMA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb5082698f4b3b21e8f10d48606cc1a7510b3e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tqrrpQR77e6uWOsigAYjl7JBTwm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Makoto Shishio parte em seu navio para Kyoto a fim de derrubar o governo Meiji. Para evitar que o caos retorne ao Japão, o ex-assassino que se tornou protetor do país, Kenshin Himura, decide treinar com seu antigo mestre para aprender a sua técnica final.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
