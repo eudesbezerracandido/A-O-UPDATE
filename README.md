@@ -1,6 +1,14 @@
 # A-O-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] APOCALYPTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45A8D5DCDC5E4B7E35986EB74B0EBFADB829C967$nome=SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:966999274D4853243D02B846FCE6925E73D5CF3C$nome=SERVIDOR 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/65jn0ZLFK12ey3bACu5jOC1EQBn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido à uma invasão. Os governantes de um império maia em declínio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrifícios humanos. Jaguar é capturado para ser um destes sacrifícios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua família.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEM RESPOSTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
