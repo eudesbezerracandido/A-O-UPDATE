@@ -1,6 +1,16 @@
 # A-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] MEGABOA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:773a1073e8c89d9228ce0256c79f1a208cb5cb4a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Liderados pelo Dr. Malone, um grupo de estudantes universitários vai à floresta para procurar desenhos rupestres. Mas eles não esperavam encontrar a Megaboa, uma jiboia gigante de quinze metros que era considerada extinta e está faminta por sangue.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] APOCALYPTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45A8D5DCDC5E4B7E35986EB74B0EBFADB829C967$nome=SERVIDOR 1</link>
