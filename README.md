@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] MISSÃO BABILÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c609939575f089854bffa02a0c5387fa35abb543</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sayHOjIyQIWeGM5IGewGJzgbSns.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Toorop é um mercenário que segue como código de sobrevivência o lema matar ou morrer. Ele é contratado para escoltar Aurora, que vive em um convento no Cazaquistão, para Nova York. Juntamente com a irmã Rebeka, protetora de Aurora, eles atravessam o território conhecido como a “nova Rússia” para chegar ao estreito de Bhering, por onde pretendem entrar na América do Norte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOGO PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb98874f12154dd58581aef3c94fba53ca15cb77</link>
