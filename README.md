@@ -1,7 +1,13 @@
 # A-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] ESTADO DE EMERGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:450f0163c82163803a7e43e4c606bc0b6529e6c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r5WedEP5puK7AQMBJHDocurWJGV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma remagia da popular série de TV holandesa Baantjer. O detetive novato Jurre de Cock se une à força policial de Amsterdã em 1980, uma semana antes da coroação da nova rainha da Holanda. Depois de encontrar o corpo de um informante desconhecido em um dos canais da cidade, ele e seu parceiro Montijn são empurrados de cabeça para uma conspiração envolvendo posseiros, chefões das drogas belgas e um possível ataque terrorista no dia da coroação.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AGENTE INFILTRADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
