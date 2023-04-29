@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] ASSASSIN CLUB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1f9b5ce12eee8a5a091a6830df13031ca3e1aba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pxetuS6VtpfIM58PQ1Fe9jrQVaI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ocorre no mundo dos espiões internacionais e assassinos de elite. Neste mundo de assassinos contratados, Morgan Gaines é o melhor dos melhores. Quando Morgan é contratado para matar seis pessoas ao redor do mundo, ele logo descobre que todos os alvos também são assassinos contratados sem saber para matar uns aos outros.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ESTADO DE EMERGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:450f0163c82163803a7e43e4c606bc0b6529e6c0</link>
