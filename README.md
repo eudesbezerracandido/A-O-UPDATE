@@ -1,6 +1,13 @@
 # A-O-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] A PISCINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8422d6258d0d4a0b4bb9ff49acd342e096980f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/plRo3kB1nCTuVIHWD4rfVCztIse.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta produção tailandesa, um diretor de arte é deixado sozinho para limpar uma piscina deserta de 6 metros de profundidade após uma filmagem. Aproveitando o calor e o cenário, ele acaba adormecendo em uma boia. Quando ele acorda novamente, o nível da água baixou tanto que ele não pode sair sozinho da piscina. Ele grita por socorro, mas a única coisa que o ouve não está interessada em resgatá-lo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MENSAGAGEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
