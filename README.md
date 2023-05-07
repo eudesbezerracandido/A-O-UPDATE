@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] O MENSAGAGEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883874c1f919a9345ebf229730f2a767328ac51a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/90wQuKiwuJYzOFcJpRMLwQUdyd0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirado em uma história real sobre Jan Nowak-Jezioranski, um mensageiro que recebeu uma missão secreta do governo polonês: negociar com os britânicos o apoio à resistência contra os alemães no final da Segunda Guerra Mundial.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5</link>
