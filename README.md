@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] DUAS PECADORAS E UMA MULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3db514f07c77afb049a6fc107d8b4fb38260ef03</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rdisHtFOulk0bWGGXrR8DYeBC4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Expulsas de uma pequena cidade do oeste por comportamento pecaminoso, Alice (Chantelle Albers) e Nora (Hannah James) partem para Virginia City para perseguir o sonho de abrir um restaurante. Na pradaria, eles se deparam com um caçador de recompensas ferido chamado Elden (Cam Gigandet, Crepúsculo). Na esperança de compartilhar a recompensa, eles cuidam de Elden e o ajudam a perseguir sua presa, Grimes (Cord Newman). Mas Nora e Alice se apaixonam por Elden, com isso não percebem que Grimes agora é quem está atrás deles, e os caçadores se tornam a caça.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A PISCINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8422d6258d0d4a0b4bb9ff49acd342e096980f9</link>
