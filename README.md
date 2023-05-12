@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ULTRAMEN - R&B O FILME O CRISTAL DA UNIÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12a437bd5ec1d136893969478624dfd5e1715f96</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8xSRDVb7lyXlarTbqmwhkS027KH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a paz ser restaurada em Ayaka-shi, Isami e Asahi lutam para alcançar seus sonhos. Katsumi é enviado para um planeta distante. Na Terra, o monstro Snake Darkness aparece e Katsumi terá que encontrar seu caminho de volta à Terra e se reunir com sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUAS PECADORAS E UMA MULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3db514f07c77afb049a6fc107d8b4fb38260ef03</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rdisHtFOulk0bWGGXrR8DYeBC4.jpg</thumbnail>
