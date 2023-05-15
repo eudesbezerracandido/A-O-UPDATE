@@ -1,7 +1,13 @@
 # A-O-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] BENDER: O GOLPE FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6d1f7418cc46e35d16cba919cd1aea24e5f123a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m8H7fgeM22Seg5smaD8owsKE8PX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ibrahim Bender e Osip ficaram famosos demais e agora são procurados pela polícia de dois países: Rússia e Turquia. Em busca da vara de ouro, eles terão que se disfarçar de artistas de circo, terroristas e até como duas senhoras viajando em um navio, mãe e filha até chegarem à Turquia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUPLA JORNADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
