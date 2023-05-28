@@ -1,6 +1,15 @@
 # A-O-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] FORÇA BRUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8646264a2fb14e96e614f5afc65f85c97cc37646</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1GGqZZVFYzKn6WTQgR5bQFqMpIR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O 'Beast Cop' Ma Seok-do segue para um país estrangeiro para extraditar um suspeito, mas logo após sua chegada, ele descobre outros casos de assassinato e ouve sobre um assassino cruel que comete crimes contra turistas há vários anos.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] BENDER: O GOLPE FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6d1f7418cc46e35d16cba919cd1aea24e5f123a</link>
