@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MATADORES DE CANIBAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4804f5a97a1c74d636fb760a357b76736d83ac21</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kaJEMqoKcH0c64FHOeyT4NWyGNA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma legião de demônios foi libertada criando uma América apocalíptica. Pike lidera um grupo de sobreviventes lutando contra cadáveres possuídos por demônios através do deserto tentando chegar até Jawbone, enquanto o Magistrado está criando um exército de cadáveres canibais para servi-lo. O que será exigido de Pike para derrotar esta legião? Tudo começou em Jawbone e tudo terminará em Jawbone.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] FORÇA BRUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8646264a2fb14e96e614f5afc65f85c97cc37646</link>
