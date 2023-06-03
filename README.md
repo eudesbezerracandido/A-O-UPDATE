@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] RESGATE EM MEDELIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6TQJW2SP33W6R7KCOAILHVESKIYICSU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i0Ulb13yY2WCcZ047iThR0dtMd5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para salvar seu irmão mais novo de um perigoso quartel em Medelín, Reda (Ramzy Bedia) tem um plano completamente insano: montar uma equipe e invadir a Colômbia! Porém, essa aventura sai de controle quando ele decide sequestrar o filho do líder do quartel para trocá-lo pela vida de seu irmão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MATADORES DE CANIBAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4804f5a97a1c74d636fb760a357b76736d83ac21</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kaJEMqoKcH0c64FHOeyT4NWyGNA.jpg</thumbnail>
