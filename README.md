@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] THE MOB ( LONG HU ZHI BA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D551E283477D13CD633F70EECB0E17ACC7EBF319</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9kcQMi948S0K1GyertJP4uhPPei.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Zhou Fang, o jovem mestre de Tongming Hall no Shanghai Bund, luta contra Longde da Câmara de Comércio para vingar o assassinato de seu pai.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RESGATE EM MEDELIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
