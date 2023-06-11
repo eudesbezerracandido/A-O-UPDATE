@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DEIXANDO O AFEGANISTÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:589c44d0cb5714cd98328b9c5ac7c35f025013a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k7ITNM3zLK6FhRlfG1yi0oIAQQv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>1988-1989. O fim da Guerra soviético-afegã. A URSS começa sua retirada do Afeganistão. O filho do general soviético Vasiliev – um piloto chamado Alexander é sequestrado pelos Mujahideen depois que seu avião dá pane. Como resultado, a centésima oitava divisão de infantaria motorizada de regresso fica em espera para uma última missão: trazer o filho do General de volta. Com base em acontecimentos verdadeiros, a história inédita da campanha de abstinência corajosa e trágica (através da passagem de Salang) revela o perigo do horror e da complexidade da natureza humana durante o tempo de guerra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE MOB ( LONG HU ZHI BA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D551E283477D13CD633F70EECB0E17ACC7EBF319</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9kcQMi948S0K1GyertJP4uhPPei.jpg</thumbnail>
