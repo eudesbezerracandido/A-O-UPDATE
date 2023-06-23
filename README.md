@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MERGULHO RADICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a52c2ec3be58ac1a01e7c2484b7382bdd72f2756</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5bL4VNWRaodLaGKUeUKJhX7qVmc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de um casal de namorados muda completamente quando um amigo deles compra um iate perfeito para procurarem tesouros no fundo do mar. Em meio às buscas por tesouro, eles encontram um carregamento de drogas e passam a ser ameaçados de morte.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MESTRE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6712451b9f7eff28c9e90319826489b6fb783bc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yFQ3mmGtZsNluNwfbh8i35b8up.jpg</thumbnail>
