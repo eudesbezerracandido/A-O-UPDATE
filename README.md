@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O MESTRE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6712451b9f7eff28c9e90319826489b6fb783bc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yFQ3mmGtZsNluNwfbh8i35b8up.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de ser morto por um grupo de criminosos, um homem renasce com superpoderes semelhantes a animais e tem como missão corrigir os erros de sua cidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEIXANDO O AFEGANISTÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:589c44d0cb5714cd98328b9c5ac7c35f025013a5</link>
