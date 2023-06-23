@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EQUILIBRIUM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e7c18dfe142035438fd857cdccd19099c02ffeb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na nação Líbria há sempre paz entre os homens. O sistema é simples: neste mundo futurista um regime severo e rigoroso eliminou a guerra suprimindo todas as emoções. Ler livros, ouvir música e ver quadros é um crime punível inclusive com a pena de morte. Quem é feliz é preso, e quem chora, perseguido. E quem não tomar a dose diária de Prozium, uma droga distribuída pelo Estado que altera a mente e restringe as emoções, assina imediatamente a sua sentença de morte. Clerick John Preston é um alto dignatário governamental responsável por destruir quem não cumpre as regras. Mas no dia em que se esquece de tomar a sua dose, descobre que ele é afinal a única pessoa capaz de destruir o regime que o treinou para fazer cumprir as suas rígidas leis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MERGULHO RADICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a52c2ec3be58ac1a01e7c2484b7382bdd72f2756</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5bL4VNWRaodLaGKUeUKJhX7qVmc.jpg</thumbnail>
