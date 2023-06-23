@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O FUGITIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95117a3eb292db13ce0c34da5d32239236f0c4ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/as4vrdeebZxWakKsJE1DdvsKQB9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O bem sucedido cirurgião Richard Kimble (Harrison Ford) é acusado de ter assassinado sua esposa e condenado a prisão. Jurando inocência, ele afirma que lutou com o verdadeiro assassino: um homem de um braço só. A caminho da prisão, o ônibus que o transportava sofre um acidente e o Dr. Kimble consegue escapar. Agora ele é um fugitivo, procurado por toda a polícia e calado pelo implacável agente federal Sam Gerard (Tommy Lee Jones). Sua única chance é encontrar o verdadeiro culpado e entregá-lo às autoridades, antes que seja tarde demais. Sua única chance pe encontrar o verdadeiro culpado e entregá-lo às autoridades, antes que seja tarde demais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MESTRE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
