@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TRILHA DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ac4d5d83e0a32c55d3756e658bf7737bca84b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sSG7noMZN9Vx1EzHrAcx6sP41fa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Isaac LeMay (Worthington) aprende com um profeta que ele é amaldiçoado e será morto por um de seus filhos. Para impedir que a maldição se torne realidade, ele rastreia sua semente, cujas linhagens são confirmadas por uma marca de nascimento hereditária, e finalmente encontra seu filho Cal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INUMBER: O OURO DE JOENESBURGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eef2d4113409861adb96fd7af37624899740ab0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lfsbL4QcmMKJvdVYE36tPRmoaiv.jpg</thumbnail>
