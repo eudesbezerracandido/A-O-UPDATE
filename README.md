@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SEIS GOSTOSAS NUM GALPÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50d0b0091438e976a53168e2738deb14870287a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/en9lq3hL33mH1A25VWff2t0eoKu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adrian é um fotógrafo inseguro, cansado de se sentir menosprezado pelos outros. Ele decide se vingar, preparando uma sessão de fotos com seis modelos que o ridicularizaram, onde elas devem lutar entre si até que reste apenas uma.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEUS SOGROS ESTÃO PRO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3608730bf053a1f44d1b96d6b8c94bdefe8b56c0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg</thumbnail>
