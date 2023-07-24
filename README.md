@@ -1,6 +1,13 @@
 # A-O-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] HELBOY 2019 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFEE03CCB305F475E7021E137C49D1D9B5B9D46F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nuvHAyEu5YNbMadUieIyPEp7Sml.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEIS GOSTOSAS NUM GALPÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
