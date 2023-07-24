@@ -1,6 +1,16 @@
 # A-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] JACK REACHER - SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:763CC63B8379A157B3F9F78480617D53A8CF36A9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jack Reacher retorna para reafirmar sua ousada marca de justiça, em "uma divertida aventura de ação" baseada na série de best-sellers do autor Lee Child. Quando a major do Exército Susan Turner é incriminada por traição, Reacher descobre que ela foi alvo de uma tremenda conspiração governamental. Com a ajuda da própria Turner e de um misterioso novo aliado, Reacher arrisca tudo para derrubar a poderosa organização, que não vai se deter diante de nada para proteger seus segredos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HELBOY 2019 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFEE03CCB305F475E7021E137C49D1D9B5B9D46F</link>
