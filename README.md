@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ALIENOID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/paHRyvDG0vLPp77sj7n85y8zrxI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A porta do tempo se abre entre o espadachim que quer apoderar-se da lendária espada divina no final da Dinastia Goryeo e aqueles que perseguem um prisioneiro alienígena preso em um corpo humano em 2022.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JACK REACHER - SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:763CC63B8379A157B3F9F78480617D53A8CF36A9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg</thumbnail>
