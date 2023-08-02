@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] BUSCA IMPLACÁVEL TRILOGY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d60b8c9a5b4f7912b1bb63d7859921f4e5fc010c</link>
+<thumbnail>https://ia802702.us.archive.org/13/items/trilogia_202308/TRILOGIA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bryan Mills (Liam Neeson) é um ex-agente do governo, que deixou o emprego para que pudesse passar mais tempo com Kim (Maggie Grace), a filha que teve com sua ex-esposa Lenore (Famke Janssen). Ele passa então a trabalhar com antigos colegas, realizando serviços leves de segurança particular. Um dia Kim pede ao pai autorização para que viaje a Paris com uma amiga, a qual é negada pelo fato de que Bryan sabe bem os perigos que ela correria em um país estranho. Isto não a impede, fazendo a viagem assim mesmo. Só que o temor de Bryan se concretiza, já que logo após a chegada Kim e sua amiga desaparecem.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ALIENOID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
