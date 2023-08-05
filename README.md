@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MERCENÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c3ce1990db3d5efad031869f0681e92f2d6bbdb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e6UpLOZZDDadXQGqkERfuvxiEJp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que uma missão na América do Sul deu errado, um mercenário fica entre a vida e a morte, mas sobrevive graças aos cuidados dos habitantes de um vilarejo. Mas agora, para proteger o local, ele se vê obrigado a lutar contra os seus antigos parceiros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ALIENOID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/paHRyvDG0vLPp77sj7n85y8zrxI.jpg</thumbnail>
