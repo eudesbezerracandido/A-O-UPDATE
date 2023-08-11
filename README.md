@@ -1,9 +1,13 @@
 # A-O-UPDATE
 
 
-
-
-
+<item>
+<title>[COLOR silver][B] GUERRA EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a2e074b0f21dcc3b8bb8e38c5f870effe7bebd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em uma história real. Em fevereiro de 2014, durante a ocupação russa na Península da Crimeia, o navio de guerra ucraniano U311 "Cherkasy" e resto da Marinha do país estão bloqueados no Lago Donuzlav, com o caminho para o mar fechado por uma cilada da frota russa. Sem perspectiva de vitória ou fuga, os navios começam a se render, mas o U311 "Cherkasy", última esperança de resistência ucraniana na Crimeia, decide permanecer no local e iniciar uma luta corajosa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BUSCA IMPLACÁVEL TRILOGY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
