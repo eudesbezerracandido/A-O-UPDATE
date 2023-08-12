@@ -1,6 +1,18 @@
 # A-O-UPDATE
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] BATISMO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NI7XLK4WQ22F5LQ7M2VUUIAALTYFAQP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oigQDCC89aUDPhvCWkZ3W7LbdnD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No interior dos Estados Unidos, Shelby (Jack Huston) e Ruby (Willa Fitzgerald) já haviam anunciado o noivado e os planos para o futuro, quando ela morre de overdose de heroína. Em reabilitação das drogas, Shelby decide sair em uma missão de vingança contra os traficantes que venderam a substância para sua namorada. Tudo fica mais complexo quando o xerife da cidade começa a persegui-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GUERRA EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a2e074b0f21dcc3b8bb8e38c5f870effe7bebd</link>
