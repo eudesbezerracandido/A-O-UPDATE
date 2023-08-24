@@ -2,8 +2,13 @@
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] TERROR NO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:347e9d8c1c29996e40fc2a2ea2144e2f9cf46aab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/md4YiWgaR40nicvbPIq7BCE4qQY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A piloto da Força Aérea Real, tenente Kate Sinclair, está em sua missão de voo final quando seu jato é abatido sobre uma das fortalezas rebeldes mais perigosas do Afeganistão. Ela encontra refúgio em um bunker subterrâneo abandonado onde criaturas mortais conhecidas como Ravagers – meio-humanas, meio-alienígenas e famintas por carne humana – são despertadas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BATISMO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
