@@ -1,6 +1,16 @@
 # A-O-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] KHUTULUN-A PRINCESA GUERREIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d5e49a07491fbecc92d57787f3e864320ad5154</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h1tgT77aMRnMstr3soizs0ALir.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em uma história real, o filme mostra a lendária princesa Khutulun da Mongólia, filha de Kaidu, que governou a Ásia Central no século XIII, usando toda a sua coragem e habilidades de luta para recuperar um sagrado texto budista, o Sutra da Luz Dourada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MESTRE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6712451b9f7eff28c9e90319826489b6fb783bc</link>
