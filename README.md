@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] GUERREIRO VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f4de45f90d90be5c13c5289357b3817038f0fc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5ITRvcMqKUETNskzw2mcU6C9k6d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de sua esposa, o guarda-costas profissional Lung Wei foi para o exterior para encontrar médicos para sua filha, mas em vez disso encontrou um novo emprego como testador de realidade virtual.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A JUSTICEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF06CD9EA2E2BBC75E99FBBA971FE01904E265CD</link>
