@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLOR silver][B] A JUSTICEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF06CD9EA2E2BBC75E99FBBA971FE01904E265CD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69A9FEA9C9F48FE5C7FC53D952FAB99E01261E30</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando o marido e a filha são mortos a tiros em um drive-in, Riley (Jennifer Garner) acorda de um coma e passa os anos seguintes aprendendo a se tornar uma máquina de matar letal. No décimo aniversário da morte de sua família, ela tem como alvo todos os responsáveis, a gangue que cometeu o crime, os advogados que os libertaram e os policiais corruptos que permitiram que tudo acontecesse.</info>
