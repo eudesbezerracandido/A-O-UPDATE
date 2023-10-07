@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] AQUELES QUE ME DESEJAM A MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V3IV2WAOIP3MT7O4TWTHYXQJOZILYS2I</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Aqueles que me Desejam a Morte, Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então, precisa escapar dos assassinos que começam a caça-lo incessantemente. Ele encontra proteção com Hannah Faber (Angelina Jolie), uma bombeira traumatizada pelo fracasso de sua última missão. Os dois vão precisar lutar muito para sobreviver.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GUERREIRO VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
