@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] TREINAMENTO BRUTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27a4d2fb67feddc4cd7e1cfa279b488833ba954f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vKDCugPCULV8R24tHJcwivu2Kvw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Buscando um recomeço, Bryant se muda para uma pequena cidade. Lá, faz amizade com um jovem e se torna seu mentor. Ele só não esperava que seu passado o forçasse a entrar em uma luta de vida ou morte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AQUELES QUE ME DESEJAM A MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V3IV2WAOIP3MT7O4TWTHYXQJOZILYS2I</link>
