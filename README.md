@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] CRIME EM HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fde1f5160a9de871924b0b9ef4f7c1cb1d13fee2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7g2dtDG3yiCpIAPOGaTFjY2kfJ1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Crimes em Hollywood Torrent – Um ex-detetive da polícia de Los Angeles vive uma vida minimalista na mata. Sua vida tranquila chega a um sobressalto surpreendente quando ele volta a trabalhar como detetive particular, para investigar o assassinato da excêntrica esposa de uma estrela de televisão.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TREINAMENTO BRUTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27a4d2fb67feddc4cd7e1cfa279b488833ba954f</link>
