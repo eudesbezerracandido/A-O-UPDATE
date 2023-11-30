@@ -4,6 +4,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] PRESÁGIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22967f189492e0d3a10f565e7952d7a1928038df</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dinY8mjw6NLMmyPZHjyQYlGmKaN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Jian (Ken Zheng) é um agente de contraterrorismo que combina suas habilidades como artista marcial e clarividente para levar os indivíduos mais nefastos do mundo à justiça. Este lobo solitário é forçado a fazer um desvio inesperado para Los Angeles ao receber a notícia devastadora de um acobertamento em torno do suposto suicídio de seu irmão. Com a ajuda relutante dos detetives do LAPD, Abby (Madeline Zima), Carl (Tony Todd) e o capitão Duke (Keith David), o improvável grupo se envolve na investigação. Jian e Abby lutam contra um criminoso de alta tecnologia (Sean Patrick Flanery) que quer explorar os dons dos irmãos em sua própria busca pelo poder.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MIYAMOTO MUSASHI É OS 400 SAMURAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fe3eee19b562ec9e4a0c0c6a776d6a513ff02ed</link>
