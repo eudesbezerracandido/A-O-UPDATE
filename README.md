@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MIYAMOTO MUSASHI É OS 400 SAMURAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fe3eee19b562ec9e4a0c0c6a776d6a513ff02ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6K0LhZglkxZ1SwKXKNyOjTAzuMx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em 1604, Miyamoto Musashi atacou a família Yoshioka em seu dojo e derrotou o mestre Seijūrō e seu irmão mais novo Denshichirō em dois duelos. Para salvar sua reputação, a família Yoshioka decide revidar com todos os 100 membros da família e contratar mais 300 samurais. Agora Musashi se propõe a derrotar todos os 400 inimigos em sua batalha mais famosa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CRIME EM HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
