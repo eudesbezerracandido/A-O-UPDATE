@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TEMPESTADE-PLANETA EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7109cd06887b6d70b807fd282225b44e29ea76</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de inúmeros desastres naturais terem ameaçado o planeta, os lideres mundiais uniram-se para criar uma rede interligada de satélites para controlar o clima global e manter a humanidade a salvo. Mas agora, algo está errado, o sistema construído para proteger a terra está agora a atacá-la, e é uma corrida contra o relógio para resolver o verdadeiro problema, antes que uma tempestade mundial destrua tudo… e todos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PRESÁGIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
