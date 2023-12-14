@@ -3,7 +3,14 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A LENDA DA SERPENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Baseado na fabula chinesa da Lenda da Serpente Branca, o filme foca na Demônio-Serpente Blanca, que perde sua memória quando se disfarça de humana e se apaixona por um caçador de serpentes, o que provoca a ira de sua irmã, Verta, a Demônio-Serpente verde.
+</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TEMPESTADE-PLANETA EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
