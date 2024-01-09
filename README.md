@@ -3,6 +3,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] BANHO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ddd6cbceb40b8138c6dca0dfe5b8d653cff9e6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando o filho de um juiz bem sucedido (Taye Diggs) é morto por dois policiais (Luke Hemsworth/Gianni Capaldi) e o sistema os liberta, um detetive veterano violento (John Cusack) encontra alguns arquivos que incriminam os oficiais e o juiz, ele procura um parceiro para fazer justiça com as próprias mãos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A LENDA DA SERPENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1</link>
