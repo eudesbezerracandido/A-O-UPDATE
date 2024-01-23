@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] AS SUPERPODEROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F65EA9AEFD6C407B3D8566A6509DF7AAD4E87AE3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quatro amigas partem para uma viagem emocionante na paradisíaca Tailândia. Mas uma das garotas é sequestrada por traficantes. Sem poder ligar para a polícia, as mulheres se armam e usam suas habilidades de guerra para resgatar a amiga.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BANHO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
