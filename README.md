@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B]  ALITA-ANJO DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6228E39907E97C14D9A2E563572B1B0F50BD290</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS SUPERPODEROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F65EA9AEFD6C407B3D8566A6509DF7AAD4E87AE3</link>
