@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SAMURAI X- O FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEJkL2JVbFFWRURoeStHeEZ5Ui9rb2ZOZg==</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pTPbcJhCYtSKUz2DwDOEqigUQ00.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O ano é 1879. Jurados de vingança, Kenshin e seus aliados enfrentam o inimigo mais forte de todos: Enishi Yukishiro e seus comparsas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B]  ALITA-ANJO DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
