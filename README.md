@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B]  SRI ASIH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCWZKCFN5R26TZMJN2HXSQPDLVWH4EUJ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Alana descobre a verdade sobre sua origem: ela não é um ser humano comum. Ela pode ser um presente para a humanidade e se tornar sua protetora como a deusa Sri Asih, ou uma destruição, se ela não conseguir controlar sua raiva.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SAMURAI X- O FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEJkL2JVbFFWRURoeStHeEZ5Ui9rb2ZOZg==</link>
