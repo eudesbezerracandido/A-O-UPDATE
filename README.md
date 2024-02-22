@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] JADE BLACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b44f85db09c5e795fa8880ba5bbbefd6af0f8d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hJiRnGm1m20u8lLhWiNVbVDsoKv.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jovem agente habilidosa tem a tarefa de capturar um ex-agente antes que ele possa desencadear uma arma biológica, começando com os ricos e poderosos fornecedores do comércio sexual internacional.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  SRI ASIH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCWZKCFN5R26TZMJN2HXSQPDLVWH4EUJ</link>
