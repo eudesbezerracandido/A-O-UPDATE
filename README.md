@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SOBREVIVENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3832f0791c58458fec67e95d3fbb07e5ee5dd0d5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zaiesbwmnE7A4mOINHArJQsIJyM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A história acompanha aqueles que sobreviveram em uma cidade que foi à ruína depois que um grande terremoto destruiu todo o concreto.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] JADE BLACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
