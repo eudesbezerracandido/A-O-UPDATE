@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] 24 HORAS HORAS COM GASPAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e855b86b4435ae884cd19bc7928130a8d367a86</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wpEbqJ2UYMx1dCgQW6kRgNAlmo4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um detetive particular que só tem mais 24 horas de vida tenta solucionar o desaparecimento de sua amiga de infância.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SOBREVIVENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
