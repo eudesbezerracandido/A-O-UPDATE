@@ -9,10 +9,17 @@
 <item>
 <title>[COLOR silver][B] COLEÇÃO - O CORVO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG$nome=O CORVO 1994</link>
-<utube>Ju9BGIsyA0k</utube>O CORVO 2</utube>
 <thumbnail>https://media.themoviedb.org/t/p/original/8DxN5YuyfZbqANPSZyuorr8A60I.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Eric Draven, um jovem guitarrista, é atacado e assassinado com a sua noiva. Exactamente um ano depois, Eric regressa à vida graças à acção de um corvo que transporta a sua alma. Agora, dotado de força e visão sobrenaturais, não irá dar tréguas aos criminosos responsáveis pela sua morte.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CORVO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>Ju9BGIsyA0k</utube>
+<thumbnail>https://media.themoviedb.org/t/p/original/ogT6xmdZKyRtPYf2IorWamuqaas.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um homem e seu filho são mortos por uma gangue, após testemunharem um assassinato. Mas o pai é trazido de volta à vida por um misterioso corvo, para se vingar dos seus executores. É quando em meio à sua cruzada decide por proteger uma bela tatuadora que vive em um lugar dominado pela violência.</info>
 </item>
 
 <item>
