@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O CORVO DE 1994 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8DxN5YuyfZbqANPSZyuorr8A60I.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Eric Draven, um jovem guitarrista, é atacado e assassinado com a sua noiva. Exactamente um ano depois, Eric regressa à vida graças à acção de um corvo que transporta a sua alma. Agora, dotado de força e visão sobrenaturais, não irá dar tréguas aos criminosos responsáveis pela sua morte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 24 HORAS HORAS COM GASPAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e855b86b4435ae884cd19bc7928130a8d367a86</link>
