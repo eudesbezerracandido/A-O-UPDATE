@@ -7,7 +7,7 @@
 
 
 <item>
-<title>[COLOR silver][B]  O CORVO 1994 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] O CORVO 1994 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG$nome=O CORVO 1994</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/8DxN5YuyfZbqANPSZyuorr8A60I.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
