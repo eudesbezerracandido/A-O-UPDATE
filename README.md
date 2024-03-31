@@ -15,8 +15,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O CORVO 2-CIDADE DOS ANJOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>Ju9BGIsyA0k</utube>
+<title>[COLOR silver][B] O CORVO- VINGANÇA MALDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>TOeP67CAuDY</utube>
 <thumbnail>https://media.themoviedb.org/t/p/original/ogT6xmdZKyRtPYf2IorWamuqaas.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Um homem e seu filho são mortos por uma gangue, após testemunharem um assassinato. Mas o pai é trazido de volta à vida por um misterioso corvo, para se vingar dos seus executores. É quando em meio à sua cruzada decide por proteger uma bela tatuadora que vive em um lugar dominado pela violência.</info>
