@@ -11,7 +11,7 @@
 
 <item>
 <title>[COLOR silver][B] COLECTION -  ESQUADRÃO SUICIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$nome=ESQUADRÃO SUICIDA 2016</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a637010946bab41adcc9d632f7c538828d260ac9$nome=ESQUADRÃO SUICIDA 2016</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$nome=ESQUADRÃO SUICIDA 2021</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b8b2cf602d32b0f347570e1b68c4de1f3fcf15c$nome=ESQUADRÃO SUICIDA 2020</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/oqjsA7XPgOgbmcngJuVlvYixr2G.jpg</thumbnail>
