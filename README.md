@@ -6,6 +6,19 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] COLECTION -  ESQUADRÃO SUICIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$nome=ESQUADRÃO SUICIDA 2016</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$nome=ESQUADRÃO SUICIDA 2021</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b8b2cf602d32b0f347570e1b68c4de1f3fcf15c$nome=ESQUADRÃO SUICIDA 2020</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oqjsA7XPgOgbmcngJuVlvYixr2G.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Série de filmes baseada na equipe de personagens anti-heróis da DC Comics, Esquadrão Suicida "Suicide Squad".</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CORVO 1994 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG</link>
