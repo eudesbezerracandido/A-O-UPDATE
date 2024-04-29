@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLEÇÃO - GODZILLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gLEn3NAP5GTAUHiAtB312aT8jII.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION -  ESQUADRÃO SUICIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a637010946bab41adcc9d632f7c538828d260ac9$nome=ESQUADRÃO SUICIDA 2016</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$nome=ESQUADRÃO SUICIDA 2021</link>
