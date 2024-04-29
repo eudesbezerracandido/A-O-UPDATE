@@ -37,7 +37,7 @@
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gLEn3NAP5GTAUHiAtB312aT8jII.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info></info>
+<info>Uma empresa francesa de investigação nuclear sediada no Sul do Pacífico, está a testar o modo de vida das iguanas, sujeitas a radiações, numa ilha. Mas o inesperado acontece, e uma horrível mutação dá lugar a uma criatura horrenda... Godzilla, um assustador réptil gigante. Anos depois, Godzilla decide dirigir-se para Nova Iorque. Uma vez chegado à Big Apple, o gigantesco lagarto anda pelas ruas da cidade provocando o pânico da população e destruindo tudo o que o rodeia. As forças de segurança do País tentam detê-lo, mas o resultado é ainda pior... Até que, um cientista, que durante toda a sua vida estudou mutações, descobre que Godzilla não é o primeiro da sua espécie, como também se prepara para se multiplicar, através de ovos. E se esses ovos conseguirem eclodir, então à Humanidade estará perdida.</info>
 </item>
 
 <item>
