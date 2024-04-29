@@ -32,6 +32,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67c0ffc773bc6d6ecf73d12e174d1841d083d5a7$nome=GODZILLA 2014</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276$nome=GODZILLA E KONG O NOVO IMPÉRIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10FDB69A09D267F799B5A751FC62D38228D0811D$nome=GODZILLA O REI DOS MOSTROS II</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9936C38CC7E7953FFCC15090BE3457B43E479AF$nome=GODZILLA-MINUS ONE LEG FIXA</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
