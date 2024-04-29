@@ -29,6 +29,8 @@
 <title>[COLOR silver][B] COLEÇÃO - GODZILLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d9677bdc0d12e530b16102874afcc2c44c8e7c1$nome=GODZILLA O REI DOS MOSTROS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67c0ffc773bc6d6ecf73d12e174d1841d083d5a7$nome=GODZILLA 2014</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276$nome=GODZILLA E KONG O NOVO IMPÉRIO</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gLEn3NAP5GTAUHiAtB312aT8jII.jpg</thumbnail>
