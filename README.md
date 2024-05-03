@@ -8,6 +8,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TOP GUNNER- ZONA DE PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e0c72c8397fc84c52ae0439c5f1cdd8c70b7c12</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Jatos de combate dos EUA são atacados por um esquadrão de aviões de guerra misteriosos e uma batalha mortal segue, ameaçando a vida acima e abaixo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLEÇÃO COMPLETA-VELOZES & FURIOSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55E5E213021DFF49C331490C384545EDAE063E17$nome=VELOZES & FURIOSOS 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EACD32552D76E8AB657EFBA52F00E5EADDDBB3CD$nome=VELOZES+FURIOSOS</link>
