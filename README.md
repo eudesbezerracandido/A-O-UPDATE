@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DESTRUIÇÃO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b794e1ac9cbb0eb4e8387b909e60669044674c83</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma família luta pela sobrevivência quando um cometa destruidor de planetas chega à Terra. John Garrity, a sua ex-mulher Allison, e o seu jovem filho, Nathan, fazem uma perigosa viagem até à sua derradeira esperança de salvação.Por entre terríveis relatos de destruição a nível mundial, a família Garrity experiencia o melhor e o pior da Humanidade, à medida que a contagem decrescente para o apocalipse global se aproxima do zero.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O DIA DEPOIS DE AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11e4656636bb19cbd812baa25ad64d9da204e7b</link>
