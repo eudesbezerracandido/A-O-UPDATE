@@ -4,6 +4,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] TERREMOTO: A FALHA DE SAM ANDREAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D72F9F0DEBE8C335351396599356C42CF3C2A6</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wVp2zu88NMWpGluqW9eGQbwLWi.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de a famosa falha de San Andreas finalmente ceder, desencadeando um sismo arrasador na Califórnia, um piloto de helicóptero de resgate e salvamento e a sua mulher, de quem já estava afastado há algum tempo, fazem juntos o caminho de Los Angeles a São Francisco para salvar a sua filha. Mas esta viagem é apenas o início. Quando eles pensam que o pior já passou... está, na verdade, a começar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O IMPOSSIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198</link>
