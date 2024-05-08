@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] 13 MINUTOS DE TORMENTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EAZPWDMUPXBM2O6HYNZCP2QUG3AWOBX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/47RDMc8FeN1GxGMEmsVCCjXqzdE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quatro famílias são testadas em um único dia quando um tornado os atinge, cruzando seus caminhos e redefinindo o significado de sobrevivência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HORAS DECISIVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
