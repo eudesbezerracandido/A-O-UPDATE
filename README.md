@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] IMPACTO PROFUNDO DE 1998 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:702607B3DB53F981B3BD47E4911BECA3A018DC03</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/4TJV49ZbiZge0RK1VWesmm40qso.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um astrônomo-mirim (Elijah Wood) e seu professor acidentalmente descobrem que um cometa com 11 mil metros de diâmetro vai colidir com a Terra, mas um dos descobridores morre em um desastre de automóvel. Após um ano, um repórter tentando investigar um possível escândalo sexual chega à conclusão de que a "amante" é o cometa, que está prestes a se chocar com nosso planeta. Se isto vier a acontecer os danos causados serão incalculáveis e a vida animal e vegetal em pouco tempo deixará de existir. No entanto, uma equipe formada por americanos e russos planeja colocar detonadores nucleares, para fragmentar o cometa e salvar a Terra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FORÇA DA NATUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd81eafc71238d61090fd66dcc9d5d466549e46</link>
