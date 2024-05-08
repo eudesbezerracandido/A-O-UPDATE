@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] 2012 - NÓS FOMOS AVISADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7e2a9978dd6322eab2fbfb3a092db4e92ab4599</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6ZwQWTKeLfmGyaCxKWEqEM7Ewtq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Alguns séculos atrás, os Maias deixaram-nos o seu calendário com uma data para o fim do Mundo. Desde então, os numerólogos encontraram padrões que prevêem esta catástrofe, os geólogos dizem que a Terra vai dar de si, e nem mesmo os cientistas podem negar o cataclismo de proporções épicas que nos espera em 2012. Uma profecia que começou com os Maias já foi vastamente discutida, falada, desmontada e examinada. Em 2012, saberemos. Nós fomos avisados...</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MISSÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
