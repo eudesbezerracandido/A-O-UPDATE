@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O DIA DEPOIS DE AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11e4656636bb19cbd812baa25ad64d9da204e7b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma alteração abrupta de clima irá provocar vários cataclismos em todo o Planeta. O meteorologista Jack Hall (Dennis Quaid), nos seus estudos, prevê a chegada de uma nova Idade do Gelo, mas não contando que isso fosse acontecer proximamente. Uma súbita e violenta mudança na temperatura global irá causar extremas perturbações em todos os cantos da Terra; inundações, tempestades de neves, tornados e temperaturas de uma magnitude que nunca antes haviam ameaçado o Planeta. Jack tem de convencer rapidamente o Presidente dos Estados Unidos a ordenar a evacuação do país no sentido de salvar milhões de pessoas que estão em perigo, incluindo o seu filho Sam (Jake Gyllenhaal). Quando Sam está isolado numa Nova Iorque abaixo de zero, Jack tem de fazer uma perigosa corrida contra o tempo para salvar o seu filho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 2012 - NÓS FOMOS AVISADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
