@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HORAS DECISIVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95E9E64FDEDCD8C9F0FCD90E3A1AB3BC9F1B6EA2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8VTYz8SkU8DcBgKNprMjqPNZBgt.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A Guarda Costeira Americana faz uma ousada tentativa de resgate na costa se Cape Cod após dois petroleiros serem parcialmente destruídos por uma nevasca em 1952.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DESTRUIÇÃO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b794e1ac9cbb0eb4e8387b909e60669044674c83</link>
