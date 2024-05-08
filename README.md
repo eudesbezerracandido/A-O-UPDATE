@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FORÇA DA NATUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd81eafc71238d61090fd66dcc9d5d466549e46</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/aCbYUY1xuyaxbp5F1KuyH7AIvHg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um policial deve proteger os moradores remanescentes de um prédio no meio de uma evacuação de furacão, enquanto criminosos violentos tentam realizar um misterioso assalto dentro do prédio.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TOP GUNNER- ZONA DE PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
