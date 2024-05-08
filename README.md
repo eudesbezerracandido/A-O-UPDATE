@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TEMPESTADE- PLANETA EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F7109CD06887B6D70B807FD282225B44E29EA76</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Planeta em Fúria dublado e com qualidade de bluray. A ocorrência cada vez mais frequente de eventos climáticos capazes de ameaçar a existência da humanidade faz com que seja criada uma extensa rede de satélites, ao redor de todo o planeta, de forma a controlar o próprio clima. Apelidado de Dutch Boy, este sistema construído a partir da cooperação de 17 países é coordenado pelo engenheiro Jake Lawson (Gerard Butler). Após anos de dedicação, ele é afastado da função devido a questões políticas e, em seu lugar, é nomeado seu irmão caçula, Max (Jim Sturgess). Três anos depois, quando a coordenação do "Dutch Boy" está prestes a ser transferida dos Estados Unidos para a ONU, falhas pontuais provocam uma forte nevasca em pleno deserto no Afeganistão e altíssimas temperaturas em Hong Kong, que matam centenas de pessoas. Jake é então convocado para descobrir o que está acontecendo e, enviado para a estação internacional, desvenda uma imensa conspiração ao mesmo tempo em que precisa deixar para trás os atritos existentes com Max.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] IMPACTO PROFUNDO DE 1998 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
