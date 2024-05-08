@@ -5,6 +5,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] MISSÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VZVCGISLTCKFES4VL7QBFXWMMHUGNWO4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5JRkb2C0kvtlSySZZd73Cle43gU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após o desabamento de uma remota mina de diamantes no extremo norte do Canadá, um camionista, especialista em conduzir nas perigosas estradas de gelo tem 36 horas para liderar uma missão de resgate quase impossível, para salvar os mineiros presos. Ao enfrentar as finas estradas de gelo que ameaçam quebrar a qualquer instante e uma enorme tempestade, a equipa - onde se encontra o seu irmão Gurty, um mecânico talentoso que sofre de afasia devido a lesões de guerra -, descobre que a verdadeira ameaça é algo com que nunca contaram.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TEMPESTADE- PLANETA EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F7109CD06887B6D70B807FD282225B44E29EA76</link>
