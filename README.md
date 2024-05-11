@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O ÚLTIMO SOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f707496755eba3a5327a6ac7862ca43963747bd1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/t9X1KTfm09AJj4r6lQJkfNccPP2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Éric é um pequeno traficante que mora em seu carro e não quer aceitar a guarda de Esteban, seu filho autista de dez anos de idade. Mas após Esteban ser sequestrado por dois bandidos, ele fará de tudo para conseguir o dinheiro do resgate e salvar a vida do menino.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O CÉU DA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
