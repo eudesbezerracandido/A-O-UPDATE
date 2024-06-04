@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B]  A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc8f46e05e8a8c25d88d9d8c9424758dac60541</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Doze estranhos acordam em uma clareira. Eles não sabem onde estão ou como chegaram lá. Eles não sabem que foram escolhidos para um propósito muito específico, A Caçada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ÚLTIMO SOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f707496755eba3a5327a6ac7862ca43963747bd1</link>
