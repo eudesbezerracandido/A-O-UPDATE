@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MR-9 MISSÃO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ZYEOVAO4GGRJHOX6COPL7VCN5B7RF6D</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8Js658DZ6zaY135wpRnINGuTPOL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Com Frank Grillo. Um espião de elite de Bangladesh e um agente da CIA formam uma aliança improvável para deter um império do crime implacável liderado por um magnata inescrupuloso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CÉU DA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c24a7b5ab652b0b35f0607e6bc179f3b4ed205</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/kgWWLoRyWvE5s6rrKgAIf2a0pni.jpg</thumbnail>
