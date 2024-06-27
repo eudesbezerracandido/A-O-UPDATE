@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] TEMPESTADE DE GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fbad5a3412a97595fa43f8362c4df641492baad</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9BddHD4H1kCHZ2rlGTyUh8Spsgv.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando uma devastadora tempestade de inverno atinge a Carolina do Norte com as temperaturas mais baixas registradas na história, todo o estado começa a congelar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FUGINDO PARA VIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>IuLW89r-kYc</utube>
